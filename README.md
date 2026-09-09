@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello!
+My name is Evelyn Weickert. I am part of UChicago 2030
 
 
-**evelynw-08/evelynw-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
